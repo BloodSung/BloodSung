@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/BloodSung.png" alt="Your Image Badge" />
 
+<!-- hopefully 
+curl https://github.com/BloodSung/BloodSung/blob/main/README.md
+works, for updating the stale content in the cache of the github
+-->
+
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
